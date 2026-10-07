@@ -4,6 +4,8 @@
     {"name":"Orange Max","added":"2026-10-08","days":5,"file":"Orange_Max.npvs"}
   ],
   "hc": [],
-  "hat": [],
+  "hat": [
+    {"name":"Orange HA","added":"2026-10-08","days":5,"file":"Orange_HA.hat"}
+  ],
   "hi": []
 }
